@@ -1,0 +1,15 @@
+for using parser you need:
+
+beautifulsoup4	4.11.1	4.11.1
+bs4	0.0.1	0.0.1
+certifi	2022.9.24	2022.9.24
+charset-normalizer	2.1.1	3.0.0
+idna	3.4	3.4
+items	0.6.5	0.6.5
+nulltype	2.3.1	2.3.1
+pip	22.3	22.3.1
+requests	2.28.1	2.28.1
+setuptools	60.2.0	65.5.1
+soupsieve	2.3.2.post1	2.3.2.post1
+urllib3	1.26.12	1.26.12
+wheel	0.37.1	0.38.3
