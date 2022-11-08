@@ -1,0 +1,824 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta name="yandex-verification" content="fc37575bc5a9a900" />
+<meta name="google-site-verification" content="EZNdfz2jN7gR5lLr36o4Vq5uNX0eaBLDanjCogSaGuQ" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, user-scalable=no">
+<link rel="canonical" href="https://www.kmklegal.ru/"/>
+<link rel="icon" type="image/x-icon" href="/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="description" content="Юридическая компания КМК – помощь в арбитражных судах, банкротство, решение корпоративных споров. Надежно, качественно, доступно!" />
+<link href="/bitrix/js/main/core/css/core.min.css?15547483692854" type="text/css" rel="stylesheet" />
+
+<script type="text/javascript" data-skip-moving="true">(function(w, d, n) {var cl = "bx-core";var ht = d.documentElement;var htc = ht ? ht.className : undefined;if (htc === undefined || htc.indexOf(cl) !== -1){return;}var ua = n.userAgent;if (/(iPad;)|(iPhone;)/i.test(ua)){cl += " bx-ios";}else if (/Android/i.test(ua)){cl += " bx-android";}cl += (/(ipad|iphone|android|mobile|touch)/i.test(ua) ? " bx-touch" : " bx-no-touch");cl += w.devicePixelRatio && w.devicePixelRatio >= 2? " bx-retina": " bx-no-retina";var ieVersion = -1;if (/AppleWebKit/.test(ua)){cl += " bx-chrome";}else if ((ieVersion = getIeVersion()) > 0){cl += " bx-ie bx-ie" + ieVersion;if (ieVersion > 7 && ieVersion < 10 && !isDoctype()){cl += " bx-quirks";}}else if (/Opera/.test(ua)){cl += " bx-opera";}else if (/Gecko/.test(ua)){cl += " bx-firefox";}if (/Macintosh/i.test(ua)){cl += " bx-mac";}ht.className = htc ? htc + " " + cl : cl;function isDoctype(){if (d.compatMode){return d.compatMode == "CSS1Compat";}return d.documentElement && d.documentElement.clientHeight;}function getIeVersion(){if (/Opera/i.test(ua) || /Webkit/i.test(ua) || /Firefox/i.test(ua) || /Chrome/i.test(ua)){return -1;}var rv = -1;if (!!(w.MSStream) && !(w.ActiveXObject) && ("ActiveXObject" in w)){rv = 11;}else if (!!d.documentMode && d.documentMode >= 10){rv = 10;}else if (!!d.documentMode && d.documentMode >= 9){rv = 9;}else if (d.attachEvent && !/Opera/.test(ua)){rv = 8;}if (rv == -1 || rv == 8){var re;if (n.appName == "Microsoft Internet Explorer"){re = new RegExp("MSIE ([0-9]+[\.0-9]*)");if (re.exec(ua) != null){rv = parseFloat(RegExp.$1);}}else if (n.appName == "Netscape"){rv = 11;re = new RegExp("Trident/.*rv:([0-9]+[\.0-9]*)");if (re.exec(ua) != null){rv = parseFloat(RegExp.$1);}}}return rv;}})(window, document, navigator);</script>
+
+
+<link href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" type="text/css"  rel="stylesheet" />
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/ui/fonts/opensans/ui.font.opensans.min.css?15547483681861" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/main/popup/dist/main.popup.bundle.min.css?161702169923459" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/kmklegal/template_a5725a74bbd9209828d4062d68b18b10/template_a5725a74bbd9209828d4062d68b18b10_v1.css?161702271865180" type="text/css"  data-template-style="true" rel="stylesheet" />
+
+
+
+
+
+
+
+<title>Официальный сайт юридической компании КМК</title>
+<link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700&amp;subset=cyrillic-ext" rel="stylesheet">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.12/css/all.css" integrity="sha384-G0fIWCsCzJIMAVNQPfjH08cyYaUtMwjJwqiRKxxE/rx96Uroj1BtIQ6MLJuheaO9" crossorigin="anonymous">
+<link href="/local/templates/kmklegal/mobil.css" type="text/css"  rel="stylesheet" />
+</head>
+<body class="kmk" id="kmk">
+    <header>
+        <div class="section fixed-top menublock">
+            <div class="container  ">
+                <div class="row main_top_menu_row">
+                    <div class="col-sm-6 col-lg-3">
+                        <a class="logo" href="/">
+                            <span class="logotype">КМК</span>
+                            <span class="logo_text">Юридическая<br>компания</span>
+                        </a>
+                    </div>
+                    <div class="col-lg-6 main_top_menu">
+
+<nav class="navbar text-center">
+
+			<a href="/o-kompanii/">О&nbsp;компании</a>
+	
+			<a href="/uslugi/">Услуги</a>
+	
+			<a href="/tseny/">Цены</a>
+	
+			<a href="/keysy/">Кейсы</a>
+	
+			<a href="/publikatsii/">Публикации</a>
+	
+			<a href="/kontakty/">Контакты</a>
+	
+
+
+</nav>
+                    </div>
+                    <div class="d-none d-lg-block col-lg-3 text-right">
+                        <div class="phone"><a href="tel:+749548-08-367">+7(495) 48-08-367</a></div><br>
+<!--                        <div class="calback_btn" data-toggle="modal" data-target="#callback">Обратный звонок</div>-->
+                        <div class="calback_btn flag-save-to-coockies">Обратный звонок</div>
+                    </div>
+                    <button class="navbar-toggler" id="mobilmenu">
+                        <span class="icon-bar top-bar"></span>
+                        <span class="icon-bar middle-bar"></span>
+                        <span class="icon-bar bottom-bar"></span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </header>
+    <div id="mobile_menu">
+        <div class="contact  ">
+                <div class="text-center">
+
+                      <a href="tel:+749548-08-367">+7(495) 48-08-367</a>
+                      <div class="calback_btn calback_mobile">Обратный звонок</div>
+                </div>
+        </div>
+        <hr>
+        <div class="menublock mt-4">
+            <div class="left">
+                <h2>Разделы сайта</h2>
+                <div class="mobilnavbar">
+                        <a href="/o-kompanii/">О компании</a>
+                        <a href="/uslugi/">Услуги</a>
+                        <a href="/tseny/">Цены</a>
+                        <a href="/keysy/">Кейсы</a>
+                        <a href="/publikatsii/">Публикации</a>
+                        <a href="/kontakty/">Контакт</a>
+                </div>
+            </div>
+            <div class="right">
+                <h2>Юридические услуги</h2>
+                <div class="mobilnavbar">
+                        <a href="/uslugi/bankrotstvo-yuridicheskikh-lits/">Банкротство</a>
+                        <a href="/uslugi/arbitrazhnye-spory/">Арбитражные споры</a>
+                        <a href="/uslugi/korporativnye-spory/">Корпоративные споры</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="mp_subhead">
+    <div class="section">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <h1 class="mp_h1">Юридические услуги</h1>
+                </div>
+            </div>
+            <div class="row mp_servlist">
+
+                <div class="col-md-4 ">
+                    <div class="mp_sevice">
+                        <div class="service_pic"><img class="img-fluid" src="local/templates/kmklegal/img/bankrotstvo.jpg" alt=""></div>
+                        <div class="service_title"><a class="service_link"href="/uslugi/bankrotstvo-yuridicheskikh-lits/">Банкротство</a></div>
+                        <div class="service_descript">
+                            Сопровождением процесса банкротства для должника по системе "под ключ". Для кредиторов мы делаем все возможное с целью получения долга из имущества банкротящего лица.
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 ">
+                    <div class="mp_sevice">
+                        <div class="service_pic"><img class="img-fluid" src="local/templates/kmklegal/img/arbitrajnye_spory.jpg" alt=""></div>
+                        <div class="service_title"><a class="service_link" href="/uslugi/arbitrazhnye-spory/">Арбитражные споры</a></div>
+                        <div class="service_descript">
+                            Всесторонняя поддержка клиента на претензионной (досудебной) стадии спора,
+в процессе примирения сторон, и, несомненно, в рамках рассмотрения дел в арбитражных судах.
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 ">
+                    <div class="mp_sevice">
+                        <div class="service_pic"><img class="img-fluid" src="local/templates/kmklegal/img/korporativnye_spory.jpg" alt=""></div>
+                        <div class="service_title"><a class="service_link" href="/uslugi/korporativnye-spory/">Корпоративные споры</a></div>
+                        <div class="service_descript">
+                            Юридическая поддержка при реорганизации и реструктуризации бизнесса. Защита от недружественного поглощения. Споры по вопросам корпоративного права.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<div class="section librasection">
+    <div class="container">
+        <div class="row mt-5">
+            <div class="col-md-12">
+                <h2 class="mt-5">Юридическая компания КМК</h2>
+                <p>
+	 Юристы нашей юридической компании – это профессионалы с большим опытом работы в крупных консалтинговых фирмах России. Мы предоставляем юридические услуги высокого уровня по приемлемым и доступным ценам как небольшим фирмам, так и компаниям с целыми юридическими отделами.
+</p>
+<p>
+	Доверители, обратившиеся к нам за помощью, могут быть уверены, что им будет оказаны квалифицированные услуги, причем именно те, в которых клиент действительно нуждается. С каждым клиентом обязательно подписывается договор, который является гарантией для доверителя. Репутация и честное отношение – наше основное кредо.
+</p>
+<p>
+	Доверители могут заказать как отдельно взятую услугу (например, по составлению заявления в суд), так и воспользоваться комплексной помощью. В любом случае мы будем стараться выполнить взятые на себя обязательства добросовестно и с полной отдачей.
+</p>
+<ol>
+<li><p>
+	 <b>Наши клиенты:</b><br>Небольшой и средний бизнес, работающий в сфере строительства и производства, а также государственные предприятия и общественные организации.
+</p></li>
+<li><p>
+	 <b>Наша миссия:</b><br>Способствование успешному развитию и функционированию бизнеса доверителей, без всевозможных рисков и правовых проблем.
+</p></li>
+<li><p>
+	 <b>Наша цель:</b><br>Своевременное оказание качественных юридических услуг доверителям.
+</p></li>
+</ol>
+<h2 class="fz26 mt-5">Почему стоит обратиться именно в нашу юридическую компанию?</h2>
+<ol class="mt-4 mb-4">
+	<li><p>Бесплатная первичная консультация. В ходе нее доверитель может не только получить ответы на интересующие вопросы, но и решить, стоит ли сотрудничать с нами дальше.</p></li>
+	<li><p>Умение решать сложные дела. Наш «конёк» - это сложные случаи, которые были признаны другими юристами безнадежными и бесперспективными.</p></li>
+	<li><p>Доступность для связи 24 часа в сутки 7 дней в неделю. Наши доверители могут получить юридические услуги в любое время дня и ночи, в том числе в выходные и праздничные дни.</p></li>
+	<li><p>Экономия времени. Если вам требуются юридические услуги в Москве, позвоните нам и сообщите свой адрес – специалисты быстро подъедут в названное вами место для того, чтобы решить проблему.</p></li>
+	<li><p>Услуги «под ключ». Наши доверители продолжают заниматься своими делами, в то время как все заботы о том, как найти выход из проблемной ситуации, ложатся на наши плечи.</p></li>
+</ol>
+<p>Остались вопросы? Звоните, наши юристы обязательно вас проконсультируют.</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="d-none d-lg-block col-lg-6">
+                <div class="big_libra">
+                    <img class="biglibra_pic" src="local/templates/kmklegal/img/libra-picas.png" alt="">
+                </div>
+            </div>
+            <div class="col-lg-6 tree_circle_block">
+                <h2>Юридическая компания КМК</h2>
+                <ul>
+                    <li class="one">
+                        <div class="ttl">Наши клиенты</div>
+                        <div class="desc">Предприятия малого и среднего бизнеса, в том числе государственные организации, производственные и строительные компании, общественные организации;</div>
+                    </li>
+                    <li class="two">
+                        <div class="ttl">Наша миссия</div>
+                        <div class="desc">Обеспечение процветания и устойчивого развития бизнеса наших клиентов, оказание помощи с целью выхода из кризисных ситуаций;</div>
+                    </li>
+                    <li class="tre">
+                        <div class="ttl">Наша цель</div>
+                        <div class="desc">Оперативное оказание высокопрофессиональных юридических услуг нашим доверителям.</div>
+                    </li>
+                </ul>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="section_five">
+    <h2 class="section_ttl text-center mb-4">Пять причин доверять&nbsp;нам</h2>
+    <ul>
+        <li class="etm1">
+            <div class="ttl">Первая консультация бесплатно</div>
+            <div class="desc">Вы получите реальное представление по обстоятельствам вашего дела с вариантами возможных решений.</div>
+        </li>
+        <li  class="etm2">
+            <div class="ttl">Сложные дела –наш&nbsp;профиль</div>
+            <div class="desc">Мы обладаем реальным опытом в решении сложных судебных разбирательств и точно знаем, как добиваться положительного результата.</div>
+        </li>
+        <li  class="etm3">
+            <div class="ttl">Всегдана связи</div>
+            <div class="desc">Юриспруденция для нас не просто бизнес, а дело жизни, поэтому мы всегда доступны и максимально открыты.</div>
+        </li>
+        <li  class="etm4">
+            <div class="ttl">Экономия времени</div>
+            <div class="desc">Не нужно никуда ехать, наши юристы приедут к вам и ответят на любые ваши вопросы, мы ценим ваше время.</div>
+        </li>
+        <li  class="etm5">
+            <div class="ttl">Все заботы берём&nbsp;на&nbsp;себя</div>
+            <div class="desc">Подготовка документов, логистика, и другие обязанности, вы получаете результат с минимальной вовлеченностью в процесс.</div>
+        </li>
+    </ul>
+</div>
+                <div class="section_carusel">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<h2 class="section_ttl text-center mt-5">Отзывы наших клиентов</h2>
+			</div>
+			<div class="col-10 offset-1 mb-5">
+				<div class="carusel_slides owl-carousel">
+	            <div class="slide" id="bx_3218110189_59">
+                <a href="/upload/iblock/4b0/ip_opalnickiy.jpg" class="fancybox" data-fancybox="">
+                    <img src="/upload/iblock/c7d/ip_opalnickiy.jpg" alt="" data-image-opened="/upload/iblock/4b0/ip_opalnickiy.jpg">
+                </a>
+            </div>
+
+	            <div class="slide" id="bx_3218110189_44">
+                <a href="/upload/iblock/f04/KHostel-Akademiya.jpg" class="fancybox" data-fancybox="">
+                    <img src="/upload/iblock/e35/KHostel-Akademiya.jpg" alt="" data-image-opened="/upload/iblock/f04/KHostel-Akademiya.jpg">
+                </a>
+            </div>
+
+	            <div class="slide" id="bx_3218110189_45">
+                <a href="/upload/iblock/509/Svetlyi_-gorod.jpg" class="fancybox" data-fancybox="">
+                    <img src="/upload/iblock/c0e/Svetlyi_-gorod.jpg" alt="" data-image-opened="/upload/iblock/509/Svetlyi_-gorod.jpg">
+                </a>
+            </div>
+
+	            <div class="slide" id="bx_3218110189_142">
+                <a href="/upload/iblock/818/energogrand.jpg" class="fancybox" data-fancybox="">
+                    <img src="/upload/iblock/724/energogrand.jpg" alt="" data-image-opened="/upload/iblock/818/energogrand.jpg">
+                </a>
+            </div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>                                <div class="section cases_carusel">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-md-12">
+                <h2 class="section_ttl text-center mt-5 text-white">Наши кейсы</h2>
+
+            <div class="col-10 offset-1">
+
+                <div class="slider_cases owl-carousel">
+
+                    		<div class="slide" id="bx_651765591_7">
+		<div class="case_ttl">Иск на 330  млрд. руб от компании Башнефть</div>
+		<div class="slidecontent">
+			<div class="case_prewiev">
+				<div class="grade">
+					<div class="conte">
+						<div class="ttl">Суть дела:</div>
+						<div class="desc mt-4">
+						<p>
+	 В середине мая 2017 года с иском к АФК «Система» и ее дочернего АО «Система-Инвест» в арбитражный суд Башкирии обратились компании «Башнефть» и «Роснефть». Истцы требовали взыскать с ответчиков более 106, 6 млрд рублей убытков, которые возникли в связи с реорганизацией «Башнефти». В дальнейшем истцы увеличили сумму требований до 170 млрд рублей, сославшись на падение курса рубля. Арбитражный суд удовлетворил требования частично, взыскав с АФК «Система» и АО «Система-Инвест» 136,3 млрд рублей. Апелляция оставила решение в неизменном виде.
+</p>
+<p>
+	 В начале декабря 2017 года «Башнефть» и «Роснефть» снова подали иски с АФК «Система» и «Система-Инвест» на 131,6 млрд рублей (сумма дивидендов, полученная ответчиками за период с 2009 по 2014 годы). В свою очередь, АФК «Система» и «Система-Инвест» подали свой иск о взыскании с «Роснефти» и «Башнефти» 330 млрд рублей убытков.
+</p>						</div>
+
+					</div>
+				</div>
+			</div>
+			<div class="case_resutl">
+				<div class="grade">
+					<div class="conte">
+						<div class="ttl">Результат:</div>
+						<div class="desc mt-4">
+							<p>
+	 Юристы нашей компании представляли интересы компании АО «Система-Инвест». Несмотря на это, что арбитражный суд негласно занял позицию истца (это выражалось, например, в отклонении практически всех ходатайств и заявлений ответчика), нашим специалистам все же удалось добиться хороших результатов.
+</p>
+<p>
+	 Заключается это в подписании сторонами спора в декабре 2017 года мирового соглашения, по которому АФК «Система» должна выплатить «Башнефти» 80 млрд рублей, а АО «Система-Инвест» - 20 млрд рублей. Как видим, разница ощутима: вместо 267 млрд рублей (суммарно), ответчики должны перечислить 100 млрд рублей. АО «Система-Инвест» выполнила свою часть мирового соглашения 29 декабря 2019 года: с ее активов были сняты все ограничения и обременения, наш Доверитель смог вернуть свою деятельность в привычное русло. Еще одним положительным моментом соглашения можно считать, что компании отказываются от взаимных претензий друг к другу.
+</p>						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+		<div class="slide" id="bx_651765591_141">
+		<div class="case_ttl">Представление интересов оптовой компании в Арбитражном суде</div>
+		<div class="slidecontent">
+			<div class="case_prewiev">
+				<div class="grade">
+					<div class="conte">
+						<div class="ttl">Суть дела:</div>
+						<div class="desc mt-4">
+						ИП Инкина обратилась в Арбитражный суд Томской области с иском взыскании 6 321 000 рублей неосновательного обогащения. Судом была назначена экспертиза, которая признала товарные накладные, представленные ООО «ТЭТ-Маркет», недействительными.&nbsp;						</div>
+
+					</div>
+				</div>
+			</div>
+			<div class="case_resutl">
+				<div class="grade">
+					<div class="conte">
+						<div class="ttl">Результат:</div>
+						<div class="desc mt-4">
+							<p>
+	Партнеру КМК удалось поставить под сомнения результаты экспертизы и представить доказательства, которые убедили суд принять решение в пользу клиенту.
+</p>						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+		<div class="slide" id="bx_651765591_140">
+		<div class="case_ttl">Не спешите расставаться с деньгами</div>
+		<div class="slidecontent">
+			<div class="case_prewiev">
+				<div class="grade">
+					<div class="conte">
+						<div class="ttl">Суть дела:</div>
+						<div class="desc mt-4">
+						ООО «ЛАЙФТЕЛ» (истец) обратилось в Арбитражный суд г. Москвы с иском к ООО «АкадемНэт» (ответчик) о взыскании денежных средств в размере: 3 982 509,21 руб. (дело № А40-97125/17-135-923)						</div>
+
+					</div>
+				</div>
+			</div>
+			<div class="case_resutl">
+				<div class="grade">
+					<div class="conte">
+						<div class="ttl">Результат:</div>
+						<div class="desc mt-4">
+							<p>
+	 Адвокат ООО «КМК» в указанном деле представлял интересы ответчика. Ознакомившись с материалами дела, в том числе заявленными требованиями истца, наш специалист смог верно оценить перспективы решения спора, и на первичной устной консультации сообщил Клиенту о совершенных истцом процессуальных нарушениях. Благодаря этому рассмотрение дела можно было существенно затянуть, поскольку имеются основания оставить исковое заявление без рассмотрения, так как истцом не соблюден обязательный досудебный претензионный порядок.
+</p>
+<p>
+	 Истец подал иск 30.05.2017. На заседании, которое состоялось 20.07.2017, благодаря действиям нашего адвоката, удалось отложить рассмотрение дела на 21.09.2017. В указанную дату на заседании суд вынес определение об оставлении дела без рассмотрения и возвращении искового заявления истцу.
+</p>						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+		<div class="slide" id="bx_651765591_139">
+		<div class="case_ttl">Иногда важно сделать шаг назад, чтобы одержать победу</div>
+		<div class="slidecontent">
+			<div class="case_prewiev">
+				<div class="grade">
+					<div class="conte">
+						<div class="ttl">Суть дела:</div>
+						<div class="desc mt-4">
+						<p>
+	Клиентом была поставлена задача отложить судебное заседание. Кроме ряда причин, которые не подлежат разглашению из-за необходимости сохранения конфиденциальной информации, можем констатировать, что клиентом не было собрано абсолютно никаких веских доказательств в свою защиту, его позиция не была аргументирована, возражения к иску отсутствовали. Ситуация усугублялась тем, что обратился клиент в нашу компанию в праздничный день, непосредственно накануне судебного заседания.
+</p>						</div>
+
+					</div>
+				</div>
+			</div>
+			<div class="case_resutl">
+				<div class="grade">
+					<div class="conte">
+						<div class="ttl">Результат:</div>
+						<div class="desc mt-4">
+							<p>
+	После проведения бесплатной первичной консультации, на которой клиентом принято решение о сотрудничестве с «КМК», в тот же день подписан и оплачен договор об оказании юридических услуг, а также подготовлено соответствующее ходатайство в суд с целью отложить дату судебного заседания. Процессуальный документ незамедлительно был сдан в канцелярию суда. В результате рассмотрение дела было перенесено более чем на месяц, что дало время для подготовки стороны ответчика к предстоящему судебному разбирательству, включая сбор доказательной базы.
+</p>						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+		<div class="slide" id="bx_651765591_138">
+		<div class="case_ttl">Выходные дни не стали помехой для юридической помощи клиенту</div>
+		<div class="slidecontent">
+			<div class="case_prewiev">
+				<div class="grade">
+					<div class="conte">
+						<div class="ttl">Суть дела:</div>
+						<div class="desc mt-4">
+						<p>
+	В пятницу в телефонном режиме были проведены предварительные переговоры с потенциальным клиентом на предмет представления его интересов в суде. Ситуация усложнялась тем, что в понедельник должно состояться слушание дела, а генеральный директор компании, которая обратилась к нам за помощью, в это время находился в Минске. Нужно было оперативно подготовить соответствующие документы, которые позволили бы эффективно вести линию защиты прав ответчика, а также подписать их у руководителя компании-клиента.
+</p>						</div>
+
+					</div>
+				</div>
+			</div>
+			<div class="case_resutl">
+				<div class="grade">
+					<div class="conte">
+						<div class="ttl">Результат:</div>
+						<div class="desc mt-4">
+							<p>
+	 В этот же день юристы «КМК» подготовили возражение к предъявленному иску, изложили позицию со ссылкой на нормы действующего законодательства, а также составили договор об оказании клиенту юридических услуг и доверенность на представление его интересов в суде. Все это было направлено генеральному директору компании-клиента по электронной почте, которые после их рассмотрения и подписания отправлены в обратном порядке вместе с поездом. В воскресенье утром сотрудник «КМК» забрал документы, а уже в понедельник наши юристы на законных основаниях смогли представлять интересы клиента в суде.
+</p> 						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+		<div class="slide" id="bx_651765591_137">
+		<div class="case_ttl">Грубейшую судебную ошибку удалось исправить в кратчайшие сроки</div>
+		<div class="slidecontent">
+			<div class="case_prewiev">
+				<div class="grade">
+					<div class="conte">
+						<div class="ttl">Суть дела:</div>
+						<div class="desc mt-4">
+						<p>
+	 После рассмотрения судом иска в отношении клиента (ответчика по делу) был выдан исполнительный лист на принудительное взыскание долга. Однако, допустив грубейшую техническую ошибку, суд выдал исполнительный лист Истцу, не имея на это права, так как Решение суда не вступило в законную силу. Это неминуемо и в скором времени привело бы к катастрофическим последствиям для клиента (арест счетов, списание денежных средств, срыв сроков по заключенным контрактам, подрыв деловой репутации и т.д.), поскольку взыскатель уже подал исполнительный лист на принудительное исполнение в кредитную организацию. Для клиента важна была оперативность действий для защиты его прав и интересов.
+</p>						</div>
+
+					</div>
+				</div>
+			</div>
+			<div class="case_resutl">
+				<div class="grade">
+					<div class="conte">
+						<div class="ttl">Результат:</div>
+						<div class="desc mt-4">
+							<p>
+	 Юристы компании «КМК» немедленно начали подготовку процессуального документа, необходимого для исправления судебной ошибки, который был готов в течение нескольких часов. Кроме того, они в оперативном порядке связались с судьей с целью прояснить сложившуюся ситуацию. В итоге исполнительный лист был отозван на следующий день, о чем вынесено Определение.
+</p>						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+		<div class="slide" id="bx_651765591_136">
+		<div class="case_ttl">Успешное решение проблемы за счет работы с должниками</div>
+		<div class="slidecontent">
+			<div class="case_prewiev">
+				<div class="grade">
+					<div class="conte">
+						<div class="ttl">Суть дела:</div>
+						<div class="desc mt-4">
+						<p>
+	Клиент имел непростые деловые отношения с контрагентами. При существующей задолженности по договорным обязательствам с его стороны одновременно с этим еще большую сумму должны были ему. Дело усугублялось тем, что претензионно-исковую работу клиент не вел продолжительный период времени. Недостаточно серьезное отношение к решению правовых вопросов в хозяйственной деятельности клиента привело, с одной стороны, к несвоевременному поиску путей урегулирования ситуации в досудебном порядке, а с другой – к недостаточной работе со своими должниками. Все это нарушало платежный баланс клиента, препятствовало нормальной, стабильной работе.
+</p>						</div>
+
+					</div>
+				</div>
+			</div>
+			<div class="case_resutl">
+				<div class="grade">
+					<div class="conte">
+						<div class="ttl">Результат:</div>
+						<div class="desc mt-4">
+							<p>
+	 Юристы «КМК» взяли на себя полное решение правовых вопросов клиента, а именно:
+</p>
+<ul>
+	<li>представляли его интересы в судебных делах, где клиент выступал в роли ответчика, при этом максимально выигрывали для него время всеми законными способами и снижали штрафные санкции;</li>
+	<li>представляли интересы клиента по спорам с должниками, где успешно взыскивали долги и штрафные санкции с неплательщиков;</li>
+	<li>осуществляли подготовку заявлений на выдачу судебных приказов с должников - физических лиц в количестве более 100 заявлений, а также осуществляли последующее их исполнение.</li>
+</ul>
+<p>
+	 В результате сумма задолженности перед кредиторами была сокращена до минимума за счет эффективно налаженной работы.
+</p>
+ <br>
+ <br>
+ <br>						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+		<div class="slide" id="bx_651765591_135">
+		<div class="case_ttl">Наш юрист сохранили иностранной компании 107,6 тыс. евро</div>
+		<div class="slidecontent">
+			<div class="case_prewiev">
+				<div class="grade">
+					<div class="conte">
+						<div class="ttl">Суть дела:</div>
+						<div class="desc mt-4">
+						ООО «ТрансМаш» обратилось в Арбитражный суд города Москвы с иском о расторжении контракта и взыскании неосновательного обогащения в размере 107 621,94 евро к швейцарской компании International Business Systems Group AG. Для квалифицированной защиты прав иностранной компании в суде были привлечены специалисты нашей компании.						</div>
+
+					</div>
+				</div>
+			</div>
+			<div class="case_resutl">
+				<div class="grade">
+					<div class="conte">
+						<div class="ttl">Результат:</div>
+						<div class="desc mt-4">
+							<p>
+	 Благодаря обоснованной, профессиональной защите компании International Business Systems Group AG, которую осуществлял партнер&nbsp; удалось убедить суд, что данное дело не подлежит рассмотрению Арбитражным судом города Москвы, открытое производство прекращено.
+</p> 
+<p>
+	 Решение суда - иск не подлежит рассмотрению Арбитражным судом г. Москвы.
+</p>						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+		<div class="slide" id="bx_651765591_134">
+		<div class="case_ttl">Мы добились отказа истца от иска</div>
+		<div class="slidecontent">
+			<div class="case_prewiev">
+				<div class="grade">
+					<div class="conte">
+						<div class="ttl">Суть дела:</div>
+						<div class="desc mt-4">
+						ООО «Строительная компания «Электромонтажпроект» &#40;истец&#41; обратилось в Арбитражный суд города Москвы с иском к ООО «Энергетические системы» о взыскании неосновательного обогащения в размере 1 468 960.01 руб. &#40;Дело № А40-21826/18-26-148&#41;.						</div>
+
+					</div>
+				</div>
+			</div>
+			<div class="case_resutl">
+				<div class="grade">
+					<div class="conte">
+						<div class="ttl">Результат:</div>
+						<div class="desc mt-4">
+							<p>
+	 Юристы компании «КМК», представлявшие интересы ответчика, внимательно изучили материалы данного дела и оценили его судебные перспективы. Мы выяснили, что представленные Истцом доказательства противоречат положениям, изложенным в Постановлении Пленума Верховного Суда РФ №43 от 29.09.2015 «О некоторых вопросах, связанных с применением норм Гражданского кодекса Российской Федерации об исковой давности». Мы разъяснили в ходе внесудебного общения Истцу о последствиях указанных противоречий и предложили добровольно отказаться от исковых требований в полном объеме. Истец, проанализировав наши доводы, после внутреннего совещания согласился с доводами наших юристов и подал заявление в арбитражный суд о полном отказе от требований в размере 1 468 960,01 рублей.
+</p> 
+<p>
+	 Суд принял отказ от иска и прекратил производство по делу. 
+</p>						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+ 
+
+
+
+
+                </div>
+
+            </div>
+            </div>
+        </div>
+    </div>
+</div>                <div class="slam-easyform">
+        <div id="CALLBAC_CLICK" style="display: none;" data-toggle="modal" data-target="#modalFEEDBACK_FORM">Обратный звонок</div>
+    </div>
+<div class="slam-easyform">
+    <div id="modalFEEDBACK_FORM" tabindex="-1" role="dialog" aria-hidden="true" class="modal fade modal-review">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" data-dismiss="modal" aria-hidden="true" class="close">&#10006;</button>
+                                            <div class="title">Для консультации оставьте ваш номер, а также сообщите коротко о вашей проблеме</div>
+                                    </div>
+                <div class="modal-body">
+                    <div style="max-width:500px" >
+                        <form id="FEEDBACK_FORM"
+                              enctype="multipart/form-data"
+                              method="POST"
+                              action=""
+                              autocomplete="on"
+                              novalidate="novalidate"
+                            >
+                            <div class="alert alert-success hidden" role="alert">
+                                Ваше сообщение отправлено. Мы перезвоним в ближайшее время.                            </div>
+                            <div class="alert alert-danger hidden" role="alert">
+                                Произошла ошибка. Сообщение не отправлено.                                                            </div>
+
+                            <input type="hidden" name="FORM_ID" value="FEEDBACK_FORM">
+                            <input type="text" name="ANTIBOT[NAME]" value="" class="hidden">
+
+                                                        <div class="row">
+                                                                            <div class="col-xs-12">
+                                                <div class="form-group">
+                                                                                                            <label class="control-label" for="FEEDBACK_FORM_FIELD_PHONE">Ваш номер<span class="asterisk">*</span>:</label>
+                                                                                                        <input class="form-control" type="tel" id="FEEDBACK_FORM_FIELD_PHONE" name="FIELDS[PHONE]" value=""   required data-bv-message="Обязательное поле" data-inputmask-mask="+7 (999) 999-9999" data-mask="+7 (999) 999-9999">
+                                                </div>
+                                            </div>
+                                                                                    <div class="col-xs-12">
+                                                <div class="form-group">
+                                                                                                            <label class="control-label" for="FEEDBACK_FORM_FIELD_MESSAGE">Описание<span class="asterisk">*</span>:</label>
+                                                                                                        <div>
+                                                        <textarea class="form-control" id="FEEDBACK_FORM_FIELD_MESSAGE" rows="5" name="FIELDS[MESSAGE]"   required data-bv-message="Обязательное поле"></textarea>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                            
+                                    <div class="col-xs-12">
+                                                                                    <p class="warning-buy"><small>Нажимая кнопку «Получить консультацию», я даю свое согласие на обработку моих  <a href="/o-kompanii/soglasie-na-obrabotku-personalnykh-dannykh/" target="_blank">персональныx данных</a>, в соответствии с Федеральным законом от 27.07.2006 года №152-ФЗ «О персональных данных», на условиях и для целей, определенных в Согласии на обработку персональных данных.</small></p>
+                                                                                <button type="submit" class="btn-primary btn-sm flag-save-to-coockies" data-default="Получить консультацию">Получить консультацию</button>
+                                    </div>
+                                                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            <div class="modal fade modal-add-holiday" id="frm-modal-FEEDBACK_FORM"  role='dialog' aria-hidden='true'>
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header clearfix">
+                        <button type="button" data-dismiss="modal" aria-hidden="true" class="close">&#10006;</button>
+                                                    <div class="title">Спасибо, что выбрали нас.</div>
+                                            </div>
+                    <div class="modal-body">
+                        <p class="ok-text">Ваше сообщение отправлено. Мы перезвоним в ближайшее время.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+<footer>
+    <div class="container">
+        <div class="row">
+
+            <div class="col-lg-2 col-sm-6 col-3">
+                <div class="footer_logo">
+                    <div class="logo">КМК</div>
+                    <div class="logo_text">Юридическая<br>компания</div>
+                </div>
+            </div>
+
+            <div class="col-lg-2 col-sm-6 col-9">
+                <ul class="footer_menu">
+			<li><a href="/o-kompanii/">О&nbsp;компании</a></li>
+	
+			<li><a href="/uslugi/">Услуги</a></li>
+	
+			<li><a href="/tseny/">Цены</a></li>
+	
+			<li><a href="/keysy/">Кейсы</a></li>
+	
+			<li><a href="/publikatsii/">Публикации</a></li>
+	
+			<li><a href="/kontakty/">Контакты</a></li>
+	
+
+</ul>
+            </div>
+
+            <div class="col-lg-4 col-sm-12 mb-3 mb-md-3">
+                <div class="contacts">Телефон: <a href="tel:+749548-08-367">+7(495) 48-08-367</a></div>
+                <div class="contacts">E-mail: <a href="mailto:kmk@kmklegal.ru">kmk@kmklegal.ru</a></div>
+                <div class="contacts">Офис: <a href="/kontakty/">Москва</a>
+                <div class="">
+                    <i class="fab fa-vk"></i> <a rel="nofollow" target="_blank" href="https://vk.com/kmklegal"> КМК ВКонтакте</a>
+                </div>
+                <div class="">
+                    <i class="fab fa-facebook-square"></i> <a rel="nofollow" target="_blank" href="https://www.facebook.com/groups/kmklegal/"> КМК Facebook</a>
+                </div>
+
+                </div>
+            </div>
+
+<div class="col-lg-4 col-md-12">
+<div class="search-form">
+<form class="searchform" action="/rezultaty-poiska/">
+<div class="form-group row">
+ <input class="form-control field col-9" type="text" name="q" value="" placeholder="Поиск по сайту"/>
+<input class="form-control button col-2" name="s" type="submit" value="" />
+</div>
+</form><div class="copy">2016 - 2022 &copy; КМК Юридическая компания</div>
+<div class="dev">Создание и развитие сайта: <a target="_blank"  rel="nofollow" href="https://www.an3k.ru"><span>А</span>нтриКод</a></div>
+</div>
+
+        </div>
+    </div>
+</footer>
+<div class="modal fade" id="callback" tabindex="-1" role="dialog" aria-labelledby="callback" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header ">
+        <h5 class="modal-title" id="exampleModalLabel">Заказ обратного звонка</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+
+        <form class="calbaclform" action="" method="post">
+            <div class="form-group">
+                <input type="text" class="form-control" id="name" phone="phone"  placeholder="Ваш номер*" required="required">
+            </div>
+            <div class="form-group">
+                <input type="text" class="form-control" id="about" about="about"  placeholder="Описание*" required="required">
+            </div>
+
+            <div class="confident">
+                <label data-bx-user-consent="{&quot;id&quot;:1,&quot;sec&quot;:&quot;q2m6um&quot;,&quot;autoSave&quot;:true,&quot;actionUrl&quot;:&quot;\/bitrix\/components\/bitrix\/main.userconsent.request\/ajax.php&quot;,&quot;replace&quot;:{&quot;button_caption&quot;:&quot;\u0416\u0434\u0443 \u0437\u0432\u043e\u043d\u043a\u0430&quot;,&quot;fields&quot;:[&quot;Email&quot;,&quot;\u0422\u0435\u043b\u0435\u0444\u043e\u043d&quot;,&quot;\u0418\u043c\u044f&quot;,&quot;IP-\u0430\u0434\u0440\u0435\u0441&quot;]},&quot;url&quot;:null}" class="main-user-consent-request">
+	<input type="checkbox" value="Y"  name="">
+	<span class="main-user-consent-request-announce-link">Нажимая кнопку «Жду звонка», я даю свое согласие на обработку моих
+персональных данных, в соответствии с Федеральным законом от 27.07.2006 года №152-ФЗ «О персональных данных», на условиях и для целей,
+определенных в Согласии на обработку персональных данных</span>
+</label>
+<script type="text/html" data-bx-template="main-user-consent-request-loader">
+	<div class="main-user-consent-request-popup">
+		<div class="main-user-consent-request-popup-cont">
+			<div data-bx-head="" class="main-user-consent-request-popup-header"></div>
+			<div class="main-user-consent-request-popup-body">
+				<div data-bx-loader="" class="main-user-consent-request-loader">
+					<svg class="main-user-consent-request-circular" viewBox="25 25 50 50">
+						<circle class="main-user-consent-request-path" cx="50" cy="50" r="20" fill="none" stroke-width="1" stroke-miterlimit="10"></circle>
+					</svg>
+				</div>
+				<div data-bx-content="" class="main-user-consent-request-popup-content">
+					<div class="main-user-consent-request-popup-textarea-block">
+						<div data-bx-textarea="" class="main-user-consent-request-popup-text"></div>
+						<div data-bx-link="" style="display: none;" class="main-user-consent-request-popup-link">
+							<div>Ознакомьтесь с текстом по ссылке</div>
+							<div><a target="_blank"></a></div>
+						</div>
+					</div>
+					<div class="main-user-consent-request-popup-buttons">
+						<span data-bx-btn-accept="" class="main-user-consent-request-popup-button main-user-consent-request-popup-button-acc">Y</span>
+						<span data-bx-btn-reject="" class="main-user-consent-request-popup-button main-user-consent-request-popup-button-rej">N</span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</script>            </div>
+
+            <div class="form-group">
+                <input type="submit" class="btn-primary btn-sm" id="send" value="Жду звонка">
+            </div>
+        </form>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="modal fade" id="callback_action" tabindex="-1" role="dialog" aria-labelledby="callback_action" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title text-center" >Для консультации оставьте ваш номер, а также сообщите коротко о вашей проблеме</h4>
+        <button type="button" class="close manualclose" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+
+          <form class="calbaclform_action form-inline" action="" method="post">
+              <div class="form-group mx-sm-3 mb-2 pt-2">
+                  <input type="text" class="form-control" id="phone" name="phone"  placeholder="Ваш телефон*" required="required">
+                  <input type="text" class="form-control" id="about" about="about"  placeholder="Описание*" required="required">
+              </div>
+              <input type="submit" class="btn-primary btn-sm" id="send" value="Получить консультацию">
+          </form>
+
+      </div>
+    </div>
+  </div>
+</div><!-- Yandex.Metrika counter -->
+<script data-skip-moving="true" type="text/javascript" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(54409354, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/54409354" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script><script type="text/javascript" src="/bitrix/js/main/core/core.min.js?1617021750252095"></script><script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/core/core.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
+<script type="text/javascript">(window.BX||top.BX).message({'MAIN_USER_CONSENT_REQUEST_TITLE':'Согласие пользователя','MAIN_USER_CONSENT_REQUEST_BTN_ACCEPT':'Принимаю','MAIN_USER_CONSENT_REQUEST_BTN_REJECT':'Не принимаю','MAIN_USER_CONSENT_REQUEST_LOADING':'Загрузка..','MAIN_USER_CONSENT_REQUEST_ERR_TEXT_LOAD':'Не удалось загрузить текст соглашения.','MAIN_USER_CONSENT_REQUEST_URL_CONFIRM':'Ознакомьтесь с текстом по ссылке'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1667480563','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'25f883e5e5025c5f0c42b57003fc6fe5'});</script><script type="text/javascript" src="https://yastatic.net/jquery/3.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+<script type="text/javascript" src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/bitrix/js/main/popup/dist/main.popup.bundle.min.js?161702171258041"></script>
+<script type="text/javascript">BX.setJSList(['/local/templates/kmklegal/owl2/owl.carousel.min.js','/local/templates/kmklegal/js/js.cookie.js','/local/templates/kmklegal/js/script.js','/local/templates/kmklegal/components/bitrix/news.list/reviews/script.js','/bitrix/components/slam/easyform/lib/js/bootstrap.min.js','/bitrix/components/slam/easyform/lib/js/bootstrapValidator.min.js','/bitrix/components/slam/easyform/lib/js/inputmask.js','/bitrix/components/slam/easyform/script.js','/bitrix/components/bitrix/main.userconsent.request/templates/.default/user_consent.js']);</script>
+<script type="text/javascript">BX.setCSSList(['/local/templates/kmklegal/owl2/assets/owl.carousel.min.css','/local/templates/kmklegal/owl2/assets/owl.theme.default.min.css','/local/templates/kmklegal/components/bitrix/news.list/reviews/style.css','/local/templates/kmklegal/components/bitrix/news.list/case_carusel/style.css','/bitrix/components/slam/easyform/lib/css/bootstrap.min.css','/bitrix/components/slam/easyform/lib/css/bootstrapValidator.min.css','/local/templates/kmklegal/components/slam/easyform/kmk_modal/style.css','/local/templates/kmklegal/components/bitrix/menu/menu_footer/style.css','/bitrix/components/bitrix/main.userconsent.request/templates/.default/user_consent.css','/local/templates/kmklegal/styles.css','/local/templates/kmklegal/template_styles.css']);</script>
+
+
+<script type="text/javascript"  src="/bitrix/cache/js/s1/kmklegal/template_3219f6e70a27dfeb004e3f71db36cc41/template_3219f6e70a27dfeb004e3f71db36cc41_v1.js?1617022485362773"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "ef26f9c67d70d5becfa7f47020a273f8"]); _ba.push(["host", "www.kmklegal.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+<script>
+    // main servie handler blocks
+    $(function(){
+        $('.mp_sevice').click(function(){
+            window.location.replace( $(this).find('.service_link').attr('href'));
+            // console.log($(this).find('.service_link').attr('href') ) ;
+
+        });
+    })
+</script><script type="text/javascript">
+    var easyForm = new JCEasyForm({'ACTIVE_ELEMENT':'Y','CATEGORY_ACCEPT_IBLOCK_FIELD':'FORM_ACCEPT','CATEGORY_ACCEPT_TITLE':'Согласие на обработку данных','CATEGORY_ACCEPT_TYPE':'accept','CATEGORY_ACCEPT_VALIDATION_ADDITIONALLY_MESSAGE':'','CATEGORY_ACCEPT_VALIDATION_MESSAGE':'Обязательное поле','CATEGORY_ACCEPT_VALUE':'Нажимая кнопку «Получить консультацию», я даю свое согласие на обработку моих  &lt;a href=&quot;#&quot; target=&quot;_blank&quot;&gt;персональныx данных&lt;/a&gt;, в соответствии с Федеральным законом от 27.07.2006 года №152-ФЗ «О персональных данных», на условиях и для целей, определенных в Согласии на обработку персональных данных.','CATEGORY_EMAIL_PLACEHOLDER':'','CATEGORY_EMAIL_TITLE':'Ваш E-mail','CATEGORY_EMAIL_TYPE':'email','CATEGORY_EMAIL_VALIDATION_ADDITIONALLY_MESSAGE':'data-bv-emailaddress-message=&quot;E-mail введен некорректно&quot;','CATEGORY_EMAIL_VALIDATION_MESSAGE':'Обязательное поле','CATEGORY_EMAIL_VALUE':'','CATEGORY_MESSAGE_IBLOCK_FIELD':'PREVIEW_TEXT','CATEGORY_MESSAGE_PLACEHOLDER':'','CATEGORY_MESSAGE_TITLE':'Описание','CATEGORY_MESSAGE_TYPE':'textarea','CATEGORY_MESSAGE_VALIDATION_ADDITIONALLY_MESSAGE':'','CATEGORY_MESSAGE_VALIDATION_MESSAGE':'Обязательное поле','CATEGORY_MESSAGE_VALUE':'','CATEGORY_PHONE_IBLOCK_FIELD':'NAME','CATEGORY_PHONE_INPUTMASK':'Y','CATEGORY_PHONE_INPUTMASK_TEMP':'+7 (999) 999-9999','CATEGORY_PHONE_PLACEHOLDER':'','CATEGORY_PHONE_TITLE':'Ваш номер','CATEGORY_PHONE_TYPE':'tel','CATEGORY_PHONE_VALIDATION_ADDITIONALLY_MESSAGE':'','CATEGORY_PHONE_VALIDATION_MESSAGE':'Обязательное поле','CATEGORY_PHONE_VALUE':'','CATEGORY_TITLE_PLACEHOLDER':'','CATEGORY_TITLE_TITLE':'Ваше имя','CATEGORY_TITLE_TYPE':'text','CATEGORY_TITLE_VALIDATION_ADDITIONALLY_MESSAGE':'','CATEGORY_TITLE_VALUE':'','CREATE_IBLOCK':'','CREATE_SEND_MAIL':'','DISPLAY_FIELDS':['PHONE','MESSAGE'],'EMAIL_BCC':'sds@grandsoft.pro','EMAIL_FILE':false,'EMAIL_SEND_FROM':'N','EMAIL_TO':'info@kmklegal.ru','ENABLE_SEND_MAIL':true,'ERROR_TEXT':'Произошла ошибка. Сообщение не отправлено.','EVENT_MESSAGE_ID':[],'FIELDS_ORDER':'PHONE,MESSAGE','FORM_AUTOCOMPLETE':true,'FORM_ID':'FEEDBACK_FORM','FORM_NAME':'Для консультации оставьте ваш номер, а также сообщите коротко о вашей проблеме','FORM_SUBMIT_VALUE':'Получить консультацию','FORM_SUBMIT_VARNING':'Нажимая кнопку «Получить консультацию», я даю свое согласие на обработку моих  &lt;a href=&quot;/o-kompanii/soglasie-na-obrabotku-personalnykh-dannykh/&quot; target=&quot;_blank&quot;&gt;персональныx данных&lt;/a&gt;, в соответствии с Федеральным законом от 27.07.2006 года №152-ФЗ «О персональных данных», на условиях и для целей, определенных в Согласии на обработку персональных данных.','HIDE_ASTERISK':false,'HIDE_FIELD_NAME':false,'HIDE_FORMVALIDATION_TEXT':'N','IBLOCK_ID':'4','IBLOCK_TYPE':'serv','INCLUDE_BOOTSRAP_JS':'Y','MAIL_SUBJECT_ADMIN':'#SITE_NAME#: Сообщение из формы обратной связи','NAME_MODAL_BUTTON':'Обратный звонок','OK_TEXT':'Ваше сообщение отправлено. Мы перезвоним в ближайшее время.','REQUIRED_FIELDS':['PHONE','MESSAGE'],'SEND_AJAX':true,'SHOW_MODAL':'Y','TITLE_SHOW_MODAL':'Спасибо, что выбрали нас.','USE_BOOTSRAP_CSS':'Y','USE_BOOTSRAP_JS':'Y','USE_CAPTCHA':false,'USE_FORMVALIDATION_JS':'Y','USE_IBLOCK_WRITE':'Y','USE_INPUTMASK_JS':'Y','USE_JQUERY':false,'USE_MODULE_VARNING':'N','WIDTH_FORM':'500px','_CALLBACKS':'','CACHE_TYPE':'A','~ACTIVE_ELEMENT':'Y','~CATEGORY_ACCEPT_IBLOCK_FIELD':'FORM_ACCEPT','~CATEGORY_ACCEPT_TITLE':'Согласие на обработку данных','~CATEGORY_ACCEPT_TYPE':'accept','~CATEGORY_ACCEPT_VALIDATION_ADDITIONALLY_MESSAGE':'','~CATEGORY_ACCEPT_VALIDATION_MESSAGE':'Обязательное поле','~CATEGORY_ACCEPT_VALUE':'Нажимая кнопку «Получить консультацию», я даю свое согласие на обработку моих  <a href=\"#\" target=\"_blank\">персональныx данных<\/a>, в соответствии с Федеральным законом от 27.07.2006 года №152-ФЗ «О персональных данных», на условиях и для целей, определенных в Согласии на обработку персональных данных.','~CATEGORY_EMAIL_PLACEHOLDER':'','~CATEGORY_EMAIL_TITLE':'Ваш E-mail','~CATEGORY_EMAIL_TYPE':'email','~CATEGORY_EMAIL_VALIDATION_ADDITIONALLY_MESSAGE':'data-bv-emailaddress-message=\"E-mail введен некорректно\"','~CATEGORY_EMAIL_VALIDATION_MESSAGE':'Обязательное поле','~CATEGORY_EMAIL_VALUE':'','~CATEGORY_MESSAGE_IBLOCK_FIELD':'PREVIEW_TEXT','~CATEGORY_MESSAGE_PLACEHOLDER':'','~CATEGORY_MESSAGE_TITLE':'Описание','~CATEGORY_MESSAGE_TYPE':'textarea','~CATEGORY_MESSAGE_VALIDATION_ADDITIONALLY_MESSAGE':'','~CATEGORY_MESSAGE_VALIDATION_MESSAGE':'Обязательное поле','~CATEGORY_MESSAGE_VALUE':'','~CATEGORY_PHONE_IBLOCK_FIELD':'NAME','~CATEGORY_PHONE_INPUTMASK':'Y','~CATEGORY_PHONE_INPUTMASK_TEMP':'+7 (999) 999-9999','~CATEGORY_PHONE_PLACEHOLDER':'','~CATEGORY_PHONE_TITLE':'Ваш номер','~CATEGORY_PHONE_TYPE':'tel','~CATEGORY_PHONE_VALIDATION_ADDITIONALLY_MESSAGE':'','~CATEGORY_PHONE_VALIDATION_MESSAGE':'Обязательное поле','~CATEGORY_PHONE_VALUE':'','~CATEGORY_TITLE_PLACEHOLDER':'','~CATEGORY_TITLE_TITLE':'Ваше имя','~CATEGORY_TITLE_TYPE':'text','~CATEGORY_TITLE_VALIDATION_ADDITIONALLY_MESSAGE':'','~CATEGORY_TITLE_VALUE':'','~CREATE_IBLOCK':'','~CREATE_SEND_MAIL':'','~DISPLAY_FIELDS':['PHONE','MESSAGE',''],'~EMAIL_BCC':'sds@grandsoft.pro','~EMAIL_FILE':'N','~EMAIL_SEND_FROM':'N','~EMAIL_TO':'','~ENABLE_SEND_MAIL':'Y','~ERROR_TEXT':'Произошла ошибка. Сообщение не отправлено.','~EVENT_MESSAGE_ID':[],'~FIELDS_ORDER':'PHONE,MESSAGE','~FORM_AUTOCOMPLETE':'Y','~FORM_ID':'FEEDBACK_FORM','~FORM_NAME':'Для консультации оставьте ваш номер, а также сообщите коротко о вашей проблеме','~FORM_SUBMIT_VALUE':'Получить консультацию','~FORM_SUBMIT_VARNING':'Нажимая кнопку «Получить консультацию», я даю свое согласие на обработку моих  <a href=\"/o-kompanii/soglasie-na-obrabotku-personalnykh-dannykh/\" target=\"_blank\">персональныx данных<\/a>, в соответствии с Федеральным законом от 27.07.2006 года №152-ФЗ «О персональных данных», на условиях и для целей, определенных в Согласии на обработку персональных данных.','~HIDE_ASTERISK':'N','~HIDE_FIELD_NAME':'N','~HIDE_FORMVALIDATION_TEXT':'N','~IBLOCK_ID':'4','~IBLOCK_TYPE':'serv','~INCLUDE_BOOTSRAP_JS':'Y','~MAIL_SUBJECT_ADMIN':'#SITE_NAME#: Сообщение из формы обратной связи','~NAME_MODAL_BUTTON':'Обратный звонок','~OK_TEXT':'Ваше сообщение отправлено. Мы перезвоним в ближайшее время.','~REQUIRED_FIELDS':['PHONE','MESSAGE'],'~SEND_AJAX':'Y','~SHOW_MODAL':'Y','~TITLE_SHOW_MODAL':'Спасибо, что выбрали нас.','~USE_BOOTSRAP_CSS':'Y','~USE_BOOTSRAP_JS':'Y','~USE_CAPTCHA':'N','~USE_FORMVALIDATION_JS':'Y','~USE_IBLOCK_WRITE':'Y','~USE_INPUTMASK_JS':'Y','~USE_JQUERY':'N','~USE_MODULE_VARNING':'N','~WIDTH_FORM':'500px','~_CALLBACKS':'','~CACHE_TYPE':'A','OLD_PARAMS':{'ACTIVE_ELEMENT':'Y','CATEGORY_ACCEPT_IBLOCK_FIELD':'FORM_ACCEPT','CATEGORY_ACCEPT_TITLE':'Согласие на обработку данных','CATEGORY_ACCEPT_TYPE':'accept','CATEGORY_ACCEPT_VALIDATION_ADDITIONALLY_MESSAGE':'','CATEGORY_ACCEPT_VALIDATION_MESSAGE':'Обязательное поле','CATEGORY_ACCEPT_VALUE':'Нажимая кнопку «Получить консультацию», я даю свое согласие на обработку моих  &lt;a href=&quot;#&quot; target=&quot;_blank&quot;&gt;персональныx данных&lt;/a&gt;, в соответствии с Федеральным законом от 27.07.2006 года №152-ФЗ «О персональных данных», на условиях и для целей, определенных в Согласии на обработку персональных данных.','CATEGORY_EMAIL_PLACEHOLDER':'','CATEGORY_EMAIL_TITLE':'Ваш E-mail','CATEGORY_EMAIL_TYPE':'email','CATEGORY_EMAIL_VALIDATION_ADDITIONALLY_MESSAGE':'data-bv-emailaddress-message=&quot;E-mail введен некорректно&quot;','CATEGORY_EMAIL_VALIDATION_MESSAGE':'Обязательное поле','CATEGORY_EMAIL_VALUE':'','CATEGORY_MESSAGE_IBLOCK_FIELD':'PREVIEW_TEXT','CATEGORY_MESSAGE_PLACEHOLDER':'','CATEGORY_MESSAGE_TITLE':'Описание','CATEGORY_MESSAGE_TYPE':'textarea','CATEGORY_MESSAGE_VALIDATION_ADDITIONALLY_MESSAGE':'','CATEGORY_MESSAGE_VALIDATION_MESSAGE':'Обязательное поле','CATEGORY_MESSAGE_VALUE':'','CATEGORY_PHONE_IBLOCK_FIELD':'NAME','CATEGORY_PHONE_INPUTMASK':'Y','CATEGORY_PHONE_INPUTMASK_TEMP':'+7 (999) 999-9999','CATEGORY_PHONE_PLACEHOLDER':'','CATEGORY_PHONE_TITLE':'Ваш номер','CATEGORY_PHONE_TYPE':'tel','CATEGORY_PHONE_VALIDATION_ADDITIONALLY_MESSAGE':'','CATEGORY_PHONE_VALIDATION_MESSAGE':'Обязательное поле','CATEGORY_PHONE_VALUE':'','CATEGORY_TITLE_PLACEHOLDER':'','CATEGORY_TITLE_TITLE':'Ваше имя','CATEGORY_TITLE_TYPE':'text','CATEGORY_TITLE_VALIDATION_ADDITIONALLY_MESSAGE':'','CATEGORY_TITLE_VALUE':'','CREATE_IBLOCK':'','CREATE_SEND_MAIL':'','DISPLAY_FIELDS':'PHONE-array-MESSAGE-array--array-','EMAIL_BCC':'sds@grandsoft.pro','EMAIL_FILE':'N','EMAIL_SEND_FROM':'N','EMAIL_TO':'','ENABLE_SEND_MAIL':'Y','ERROR_TEXT':'Произошла ошибка. Сообщение не отправлено.','EVENT_MESSAGE_ID':'','FIELDS_ORDER':'PHONE,MESSAGE','FORM_AUTOCOMPLETE':'Y','FORM_ID':'FEEDBACK_FORM','FORM_NAME':'Для консультации оставьте ваш номер, а также сообщите коротко о вашей проблеме','FORM_SUBMIT_VALUE':'Получить консультацию','FORM_SUBMIT_VARNING':'Нажимая кнопку «Получить консультацию», я даю свое согласие на обработку моих  &lt;a href=&quot;/o-kompanii/soglasie-na-obrabotku-personalnykh-dannykh/&quot; target=&quot;_blank&quot;&gt;персональныx данных&lt;/a&gt;, в соответствии с Федеральным законом от 27.07.2006 года №152-ФЗ «О персональных данных», на условиях и для целей, определенных в Согласии на обработку персональных данных.','HIDE_ASTERISK':'N','HIDE_FIELD_NAME':'N','HIDE_FORMVALIDATION_TEXT':'N','IBLOCK_ID':'4','IBLOCK_TYPE':'serv','INCLUDE_BOOTSRAP_JS':'Y','MAIL_SUBJECT_ADMIN':'#SITE_NAME#: Сообщение из формы обратной связи','NAME_MODAL_BUTTON':'Обратный звонок','OK_TEXT':'Ваше сообщение отправлено. Мы перезвоним в ближайшее время.','REQUIRED_FIELDS':'PHONE-array-MESSAGE-array-','SEND_AJAX':'Y','SHOW_MODAL':'Y','TITLE_SHOW_MODAL':'Спасибо, что выбрали нас.','USE_BOOTSRAP_CSS':'Y','USE_BOOTSRAP_JS':'Y','USE_CAPTCHA':'N','USE_FORMVALIDATION_JS':'Y','USE_IBLOCK_WRITE':'Y','USE_INPUTMASK_JS':'Y','USE_JQUERY':'N','USE_MODULE_VARNING':'N','WIDTH_FORM':'500px','_CALLBACKS':'','CACHE_TYPE':'A'},'HTTP_PROTOCOL':'https://','HTTP_HOST':'https://www.kmklegal.ru:443','EVENT_NAME':'SLAM_EASYFORM','USE_FORM_MASK_JS':'Y','DISPLAY_FIELDS_ARRAY':['PHONE','MESSAGE'],'TEMPLATE_FOLDER':'/bitrix/components/slam/easyform/ajax.php','TEMPLATE_NAME':'kmk_modal','WRITE_FIELDS':{'PHONE':'NAME','MESSAGE':'PREVIEW_TEXT'},'CAPTCHA_KEY':'','USER_EMAIL':'','BCC':'','MAIL_SUBJECT_SENDER':'','MAIL_SEND_USER':false,'FORM_SUBMIT':false});
+</script></body></html>
